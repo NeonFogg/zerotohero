@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "zerotohero-launcher",
+    "displayName": "Zero to Hero",
+    "description": "A Nerdlet Workshop",
+    "rootNerdletId": "zerotohero-nerdlet"
+}

@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "zerotohero",
+    "version": "1.19.4",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "a8ac31fc-af21-49ee-b78f-65e92b9a773c"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
